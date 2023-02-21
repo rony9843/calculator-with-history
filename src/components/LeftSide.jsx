@@ -10,7 +10,7 @@ export default function LeftSide({
   return (
     <div>
       <div
-        className="u-align-center u-form u-radius-50 u-white u-form-1"
+        className="u-align-center u-form u-radius-50 u-white u-form-1   "
         style={{ height: "400px" }}
       >
         <div className="" name="form" style={{ padding: "30px" }}>
